@@ -1,0 +1,49 @@
+{
+  "capturedAt": "2026-11-04T07:45:23.166Z",
+  "source": "built-in lens catalogue and illustrative parameters; no physical calibration",
+  "csvAndJsonExportVerified": true,
+  "shots": [
+    {
+      "name": "workspace",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 76296
+    },
+    {
+      "name": "lens-search",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 74576
+    },
+    {
+      "name": "calibration",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 78454
+    },
+    {
+      "name": "multi-turn",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 86504
+    },
+    {
+      "name": "guide",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 74786
+    },
+    {
+      "name": "mobile-settings",
+      "width": 390,
+      "height": 844,
+      "bytes": 32018
+    },
+    {
+      "name": "mobile-preview",
+      "width": 390,
+      "height": 844,
+      "bytes": 28342
+    }
+  ]
+}
