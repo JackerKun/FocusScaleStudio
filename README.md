@@ -1,12 +1,21 @@
-# 焦点工坊 / Focus Scale Studio
+<p align="center">
+  <img src="docs/assets/logo.svg" width="104" height="104" alt="焦点工坊 / Focus Scale Studio 标志">
+</p>
+<h1 align="center">焦点工坊 / Focus Scale Studio</h1>
+<p align="center">从实测参数到毫米刻度，为你的镜头制作调焦桶距离贴纸。</p>
+<p align="center">
+  <a href="#界面导览">界面导览</a> ·
+  <a href="#使用">使用流程</a> ·
+  <a href="#支持的镜头">镜头目录</a> ·
+  <a href="#支持的调焦桶">调焦桶参数</a> ·
+  <a href="#模型">计算模型</a>
+</p>
 
 离线可用的调焦桶距离刻度贴纸工具，支持手机与桌面布局，无第三方依赖。
 
 镜头库包含 152 款型号：施耐德 48、罗敦司得 40、尼康 24、富士 30、玛米亚 10。支持中文搜索（例如“施耐德47”），47 mm 普通 f/5.6、f/8 和 f/5.6 XL 分开列出。旧方案使用的镜头 ID 保持兼容。
 
 ![焦点工坊工作区：镜头选择、实测参数、距离刻度预览与有效范围提示](docs/screenshots/workspace.webp)
-
-[界面导览](#界面导览) · [使用流程](#使用) · [镜头目录](#支持的镜头) · [计算模型](#模型) · [验证](#验证)
 
 ## 界面导览
 

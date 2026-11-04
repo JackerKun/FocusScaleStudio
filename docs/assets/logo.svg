@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Focus Scale Studio</title>
+  <desc id="desc">深绿色圆角方块上的同心调焦环、距离刻度与金色基准标记。</desc>
+  <rect width="128" height="128" rx="28" fill="#174d45"/>
+  <circle cx="64" cy="64" r="44" fill="none" stroke="#dce7b7" stroke-width="2"/>
+  <g fill="none" stroke="#dce7b7" stroke-width="2" stroke-linecap="round">
+    <path d="M64 20v8" transform="rotate(0 64 64)"/>
+    <path d="M64 20v8" transform="rotate(30 64 64)"/>
+    <path d="M64 20v8" transform="rotate(60 64 64)"/>
+    <path d="M64 20v8" transform="rotate(90 64 64)"/>
+    <path d="M64 20v8" transform="rotate(120 64 64)"/>
+    <path d="M64 20v8" transform="rotate(150 64 64)"/>
+    <path d="M64 20v8" transform="rotate(180 64 64)"/>
+    <path d="M64 20v8" transform="rotate(210 64 64)"/>
+    <path d="M64 20v8" transform="rotate(240 64 64)"/>
+    <path d="M64 20v8" transform="rotate(270 64 64)"/>
+    <path d="M64 20v8" transform="rotate(300 64 64)"/>
+    <path d="M64 20v8" transform="rotate(330 64 64)"/>
+  </g>
+  <circle cx="64" cy="64" r="27" fill="none" stroke="#fffefa" stroke-width="3"/>
+  <circle cx="64" cy="64" r="12" fill="none" stroke="#fffefa" stroke-width="3"/>
+  <path d="M58 11h12l-6 9z" fill="#d8b779"/>
+  <circle cx="64" cy="64" r="3" fill="#d8b779"/>
+</svg>
